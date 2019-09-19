@@ -1,0 +1,20 @@
+{
+  "name": "vue-template-global-variable-loader",
+  "version": "1.0.1",
+  "description": "support vue template to use window/location/document variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "template-loader",
+    "global",
+    "variable",
+    "window",
+    "location"
+  ],
+  "repository": "https://github.com/smildlzj/vue-template-global-variable-loader",
+  "author": "luzhujun",
+  "license": "MIT"
+}
